@@ -1,0 +1,14 @@
+{
+  "autoload":
+  {
+    "psr-4":
+    {
+      "Base\\": "base/",
+      "App\\": "app/"
+    }
+  },
+  "require": {
+    "illuminate/database": "^5.7",
+    "intervention/image": "^2.4"
+  }
+}

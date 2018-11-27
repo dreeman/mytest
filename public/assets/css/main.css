@@ -1,0 +1,23 @@
+body {
+    background: url(https://picsum.photos/1920/1080/?image=1067) fixed center center no-repeat;
+    background-size: cover;
+}
+
+.container-main {
+    background: #FFF;
+    margin-top: 60px;
+    padding: 20px;
+}
+
+h3 {
+    margin: 0 0 20px 0;
+}
+
+.task-image, .js-preview-image img {
+    max-width: 320px;
+    max-height: 240px;
+}
+
+.tasks-table tr th a:hover {
+    text-decoration: none;
+}
